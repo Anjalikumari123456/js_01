@@ -30,3 +30,10 @@ const myFunction=function(){
     
 }
 
+
+//**********************
+
+//stack(Primitive),Heap(Non-Primitive)
+
+
+
